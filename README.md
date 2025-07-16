@@ -3,7 +3,7 @@
 This project explores the famous **Iris dataset** using Python. It includes both:
 
 - `iris_visual.py` — a Python script version
-- `iris_analysis.ipynb` — a Jupyter Notebook version for interactive exploration
+- `iris_visual.ipynb` — a Jupyter Notebook version for interactive exploration
 
 ---
 
